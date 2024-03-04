@@ -1,5 +1,3 @@
-// Java Wprowadź N liczb dodatnich z klawiatury, a program na bieżąco wyznacza z pośród nich liczbę największą.
-
 package labs.Lab_01.additional_tasks.task_2;
 import java.util.Scanner;
 
@@ -19,3 +17,5 @@ public class numbers {
 		System.out.println("Największa liczba to: " + max);
 	}
 }
+
+// Na bierzaco zrobic wydawanie liczb
