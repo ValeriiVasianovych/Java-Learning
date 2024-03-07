@@ -1,4 +1,3 @@
-package labs.Lab_01.additional_tasks.task_1;
 import java.util.Scanner;
 
 public class square {

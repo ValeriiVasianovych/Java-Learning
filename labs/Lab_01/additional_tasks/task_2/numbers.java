@@ -1,21 +1,30 @@
-package labs.Lab_01.additional_tasks.task_2;
 import java.util.Scanner;
 
 public class numbers {
-	public static void main(String[] args) {
-		Scanner in = new Scanner(System.in);
-		System.out.print("Ile liczb chcesz wprowadzić? ");
-		int n = in.nextInt();
-		int max = 0;
-		for (int i = 0; i < n; i++) {
-			System.out.print("Podaj liczbę: ");
-			int number = in.nextInt();
-			if (number > max) {
-				max = number;
-			}
-		}
-		System.out.println("Największa liczba to: " + max);
-	}
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        
+        System.out.print("Podaj liczbę N: ");
+        int N = scanner.nextInt();
+        
+        if (N <= 0) {
+            System.out.println("N musi być liczbą dodatnią.");
+            return;
+        }
+        
+        System.out.println("Podaj " + N + " liczb:");
+        
+        int max = Integer.MIN_VALUE;
+        for (int i = 0; i < N; i++) {
+            int liczba = scanner.nextInt();
+            if (liczba > max) {
+                max = liczba;
+            }
+            System.out.println("Największa do tej pory: " + max);
+        }
+        
+        System.out.println("Największa liczba to: " + max);
+        
+        scanner.close();
+    }
 }
-
-// Na bierzaco zrobic wydawanie liczb

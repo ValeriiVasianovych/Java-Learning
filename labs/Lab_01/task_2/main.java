@@ -1,5 +1,3 @@
-package labs.Lab_01.task_2;
-
 public class main {
     public static void main(String[] args) {
         System.out.println("Liczba argumentów: " + args.length);
