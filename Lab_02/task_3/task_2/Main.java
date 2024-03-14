@@ -1,3 +1,4 @@
+package Lab_02.task_3.task_2;
 public class Main {
     public static void main(String[] args) {
         // Boolean - klasa opakowująca dla typu boolean
