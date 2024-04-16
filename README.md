@@ -1,26 +1,39 @@
-# University Repository for Java Lab Assignments
+# Java Learning Projects
 
-Welcome to my private repository used for studying at the university! Here I upload my lab assignments for Java programming.
+Welcome to my repository dedicated to learning the Java programming language! Here you will find the code I wrote during my learning journey, as well as small projects I developed to solidify my understanding.
 
-## Description
+## Table of Contents
 
-This repository is created to store and track my progress in learning Java within university courses. Here you will find my lab assignments completed according to the tasks provided by the instructors.
+1. [About](#about)
+2. [Repository Structure](#repository-structure)
+3. [Code Examples](#code-examples)
+4. [How to Use](#how-to-use)
+5. [License](#license)
+
+## About
+
+This repository is created to track my progress in learning Java and to showcase my skills in this language. Here I will publish both educational materials and small projects to demonstrate my knowledge and abilities.
 
 ## Repository Structure
 
-- **Lab_01**: First lab assignment
-- **Lab_02**: Second lab assignment
-- **Lab_03**: Third lab assignment
-- *and so on*
+- `examples/`: Folder containing code examples I wrote during the learning process.
+- `projects/`: Here you will find my small Java projects.
 
-Each folder contains a separate lab assignment. Inside the folder, you will find source codes, test data (if provided), and any additional files necessary to complete the assignment.
+## Code Examples
 
-## Usage
+In the `examples/` folder, you will find code examples that I used to learn various aspects of Java. These could be exercises, code snippets from textbooks, or online courses.
 
-This repository is intended solely for educational purposes at the university. Please respect my private repository and do not use its contents without my permission.
+## How to Use
 
-## Contact
+To use this repository, simply clone it to your computer:
 
-If you have any questions or suggestions for improving my lab assignments, feel free to contact me.
+```bash
+git clone https://github.com/ValeriiVasianovych/Java.git
+```
 
-Thank you for your attention! 📚👨‍💻
+Then you can study the code and experiment with it in your development environment.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute code from this repository, provided you retain the authorship.
+```
