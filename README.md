@@ -21,7 +21,7 @@ This repository is created to track my progress in learning Java and to showcase
 
 ## Code Examples
 
-In the `examples/` folder, you will find code examples that I used to learn various aspects of Java. These could be exercises, code snippets from textbooks, or online courses.
+In the `examples/` folder, you will find code examples that I used to learn various aspects of Java.
 
 ## How to Use
 
@@ -31,9 +31,6 @@ To use this repository, simply clone it to your computer:
 git clone https://github.com/ValeriiVasianovych/Java.git
 ```
 
-Then you can study the code and experiment with it in your development environment.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE), which means you are free to use, modify, and distribute code from this repository, provided you retain the authorship.
-```
