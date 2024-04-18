@@ -12,6 +12,13 @@ public class Main {
 		System.out.println("Year: " + bmw.year);
 		System.out.println("Color: " + bmw.color);
 		System.out.println("Speed: " + bmw.speed);
+
+		Car mazda = new Car("Mazda", 2006, "silver", 240);
+		System.out.println("Name: " + mazda.name);
+		System.out.println("Year: " + mazda.year);
+		System.out.println("Color: " + mazda.color);
+		System.out.println("Speed: " + mazda.speed);
+
 	}
 }
 
